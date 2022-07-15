@@ -1,5 +1,6 @@
-opencv/
-opencv_contrib/
+#opencv/
+#opencv_contrib/
+*_old/ # temporary until I get submodules working for a while
 
 build_debug/
 build_debug_cuda/

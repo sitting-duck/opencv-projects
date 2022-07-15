@@ -1,9 +1,12 @@
 # Build Script MacOS 10.15 Catalina
 # 05/03/2021
 # Ashley Tharp - ashley.tharp@gmail.com
+# Builds OpenCV 4.5.3
 
-git clone https://github.com/opencv/opencv.git
-git clone https://github.com/opencv/opencv_contrib.git
+
+# Old Code: no need to clone anymore, this repo uses a submodule now
+#git clone https://github.com/opencv/opencv.git
+#git clone https://github.com/opencv/opencv_contrib.git
 
 # cleanup step
 rm -rf ./*/CMakeCache.txt
