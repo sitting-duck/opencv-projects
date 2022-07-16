@@ -1,2 +1,2 @@
-rm -rf ./build_*
-rm -rf ./opencv*
+#rm -rf ./build_*
+#rm -rf ./opencv*
